@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:63e364bd1ae013341c88f1dd@squarespace.com
+DTSTAMP:20250331T113128Z
+DTSTART:20230217T100000Z
+DTEND:20230217T111500Z
+SUMMARY:Joint seminar in Mechanics and Statistics and Data Science: Alexand
+ er V. Babanin
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5be2b538c2241b9d4d522754@squarespace.com
+DTSTAMP:20250331T113128Z
+DTSTART:20181122T120000Z
+DTEND:20181122T130000Z
+SUMMARY:Dr. Alfonso Valencia - Sven Furberg Seminar in Bioinformatics and S
+ tatistical Genomics
+END:VEVENT
+END:VCALENDAR

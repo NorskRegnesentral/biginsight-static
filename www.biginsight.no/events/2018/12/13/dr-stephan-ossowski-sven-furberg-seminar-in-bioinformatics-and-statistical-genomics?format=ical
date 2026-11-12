@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5c04dd1a8a922d8601cb3ce8@squarespace.com
+DTSTAMP:20250331T113128Z
+DTSTART:20181213T133000Z
+DTEND:20181213T143000Z
+SUMMARY:Dr. Stephan Ossowski - Sven Furberg Seminar in Bioinformatics and S
+ tatistical Genomics
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5fac00e6ac99946fb7c7a5d7@squarespace.com
+DTSTAMP:20250331T113128Z
+DTSTART:20201119T133000Z
+DTEND:20201119T143000Z
+SUMMARY:Sven Furberg Seminar in Bioinformatics and Statistical: Dr. Esti Ye
+ ger-Lotem
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:60af4c7bbd0709197b8ffc9b@squarespace.com
+DTSTAMP:20250331T113128Z
+DTSTART:20210603T123000Z
+DTEND:20210603T133000Z
+SUMMARY:Sven Furberg Seminar in Bioinformatics and Statistical Genomics - D
+ r. Wilbert Zwart
+END:VEVENT
+END:VCALENDAR

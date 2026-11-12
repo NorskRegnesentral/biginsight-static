@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5ecf67da2264504f05862ffd@squarespace.com
+DTSTAMP:20250331T113128Z
+DTSTART:20200528T123000Z
+DTEND:20200528T133000Z
+SUMMARY:ZOOM: Sven Furberg Seminar in Bioinformatics and Statistical Genomi
+ cs: Dr. Evangelia Petsalaki
+END:VEVENT
+END:VCALENDAR

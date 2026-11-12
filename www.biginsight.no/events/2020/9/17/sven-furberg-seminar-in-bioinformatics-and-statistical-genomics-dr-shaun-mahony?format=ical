@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5f573d9d64c7ed68b8f9f17e@squarespace.com
+DTSTAMP:20250331T113128Z
+DTSTART:20200917T123000Z
+DTEND:20200917T133000Z
+SUMMARY:Sven Furberg Seminar in Bioinformatics and Statistical Genomics - D
+ r. Shaun Mahony 
+END:VEVENT
+END:VCALENDAR

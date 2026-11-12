@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:644a7e32ab1dff42e8437cdd@squarespace.com
+DTSTAMP:20250331T113128Z
+DTSTART:20230504T123000Z
+DTEND:20230504T133000Z
+SUMMARY:Sven Furberg Webinar in Bioinformatics and Statistical Genomics: Dr
+ . Julien Gagneur
+END:VEVENT
+END:VCALENDAR

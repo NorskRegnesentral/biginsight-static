@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:5b7d16614d7a9cf002d3d355@squarespace.com
+DTSTAMP:20250331T113128Z
+DTSTART:20181010T070000Z
+DTEND:20181010T090000Z
+SUMMARY:Black-box seminar 2: Personalised predictions: Ethics\, anonymizati
+ on\, ownership of data and making data public
+GEO:59.9436;10.717214
+LOCATION:Norsk Regnesentral\, Gaustadalléen 23A\, 0373 Oslo\, Norway
+END:VEVENT
+END:VCALENDAR
